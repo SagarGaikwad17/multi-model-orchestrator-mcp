@@ -6,6 +6,12 @@ A sophisticated Model Context Protocol (MCP) server that orchestrates work acros
 - **Sonnet 4**: Code implementation and engineering
 - **Haiku 4.5**: Subtask execution and quick tasks
 
+## 📌 About
+
+**Description:** MCP server orchestrating Claude models with role-based task distribution, planning, implementation, and execution capabilities.
+
+**Tags:** `mcp` `claude` `anthropic` `orchestration` `ai` `typescript` `python`
+
 ## 🎯 Architecture
 
 ```

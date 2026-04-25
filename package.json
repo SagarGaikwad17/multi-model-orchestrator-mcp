@@ -2,6 +2,7 @@
   "name": "multi-model-orchestrator-mcp",
   "version": "1.0.0",
   "description": "MCP server orchestrating Claude models: Opus (planning), Sonnet (coding), Haiku (subtasks)",
+  "keywords": ["mcp", "claude", "anthropic", "orchestration", "ai", "typescript", "python", "model-context-protocol"],
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
